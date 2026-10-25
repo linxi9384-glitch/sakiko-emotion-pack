@@ -1,24 +1,32 @@
 {
-  "title": "丰川祥子情绪表情包 · MyGO Meme Chat 来源限定版",
+  "title": "丰川祥子情绪表情包",
   "curated_on": "2026-10-25",
-  "image_count": 51,
+  "image_count": 83,
+  "animated_count": 23,
+  "static_count": 60,
   "categories": {
-    "01-开心与期待": 11,
+    "01-开心与期待": 19,
     "02-温柔与关心": 1,
-    "03-惊讶与疑惑": 7,
-    "04-生气与质问": 8,
-    "05-冷淡与嫌弃": 8,
-    "06-难过与委屈": 4,
+    "03-惊讶与疑惑": 12,
+    "04-生气与质问": 9,
+    "05-冷淡与嫌弃": 15,
+    "06-难过与委屈": 8,
     "07-疲惫与无奈": 2,
-    "08-坚定与认真": 10
+    "08-坚定与认真": 10,
+    "09-日常与互动": 6,
+    "10-二创恶搞": 1
   },
   "sources": [
-    "https://github.com/jason4lin/Mygo-meme-chat"
+    "https://github.com/jason4lin/Mygo-meme-chat",
+    "用户提供的本机微信表情缓存"
   ],
-  "source_revision": "7bde5c46519e9dded049c7e20ed52e36b52f6ae6",
-  "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
-  "source_index_sha256": "90ea9d79d599d50c60495ae9ce5aa88474cef75c899821633f794d2c4389c425",
-  "scope": "仅保留 MyGO Meme Chat 的 memes.json 中列出的已核验祥子精选图片，不声称穷尽该库。",
+  "source_counts": {
+    "MyGO Meme Chat": 51,
+    "微信缓存": 32
+  },
+  "chat_source_revision": "7bde5c46519e9dded049c7e20ed52e36b52f6ae6",
+  "wechat_conversation_attribution": "未核实每张表情所属对话",
+  "scope": "保留 MyGO Meme Chat 的 51 张精选，并补充本机微信缓存提取的 32 个祥子表情。",
   "images": [
     {
       "source_id": 91,
@@ -37,7 +45,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/在這裡想叫都沒問題.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0091",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 196,
@@ -56,7 +67,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/妳對組樂團有興趣嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0196",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 282,
@@ -75,7 +89,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/什麼跟什麼啊.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0282",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 307,
@@ -94,7 +111,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/一起共同演奏音樂的命運共同體了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0307",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 312,
@@ -113,7 +133,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/唱得很棒喔.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0312",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 319,
@@ -132,7 +155,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/真讓人期待.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0319",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 335,
@@ -151,7 +177,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/看完了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0335",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 336,
@@ -170,7 +199,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我一直非常期待能和各位見面.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0336",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 339,
@@ -189,7 +221,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/不會有問題的.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0339",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 342,
@@ -208,7 +243,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/讓我深深受到感動.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0342",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 370,
@@ -227,7 +265,162 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我們一起叫吧.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0370",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "id": "wx-0013",
+      "category": "01-开心与期待",
+      "title": "闭眼微笑",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "8eb1bfa3555fbcf7341a3a332fd1ee2cc73c2edfa5edf35a5614afe4d7005f25",
+      "path": "images/01-开心与期待/wx-0013-闭眼微笑.gif",
+      "original": "originals/wechat/wx-0013.wxgf",
+      "sha256": "73c0963efd51be45cc2ca0e2bebc5faf57af712ddd64f4e93cc2224c5d96e62b",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "62bc4aea821e69032122b062d928484635de8eb5adaabdcaf727f76fae11fd12"
+    },
+    {
+      "id": "wx-0018",
+      "category": "01-开心与期待",
+      "title": "一百分",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "0d340bce11a19a164f22036c6f17e3bf615e303efe5b4418a778621eb5125d13",
+      "path": "images/01-开心与期待/wx-0018-一百分.gif",
+      "original": "originals/wechat/wx-0018.wxgf",
+      "sha256": "4b64578cbc35f5f196450f69c023097644c1d3e63fb64ff25b482553944a47ca",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "6b4667cec890a6c36aef384d92a1b81487e96a37208af53d53db0062b2c4cd33"
+    },
+    {
+      "id": "wx-0023",
+      "category": "01-开心与期待",
+      "title": "得意笑",
+      "original_format": "wxgf",
+      "width": 336,
+      "height": 336,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "8417b90e4b5501dd77a1e7a7e33bb2fc9bfd9100e857da5796581714a2172de9",
+      "path": "images/01-开心与期待/wx-0023-得意笑.png",
+      "original": "originals/wechat/wx-0023.wxgf",
+      "sha256": "9caa9c1971a34432454d4f3a0ed8438c78aced4ec87d0d96190f1da4681fc9b9",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "3dee784c48f0c5e629da711f96622eac465dbc2e976881cc696638ebb918c02f"
+    },
+    {
+      "id": "wx-0027",
+      "category": "01-开心与期待",
+      "title": "握拳期待",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "fa2d1575b158e66a970e591f1f186a6055829770886da0c985e234801826a623",
+      "path": "images/01-开心与期待/wx-0027-握拳期待.gif",
+      "original": "originals/wechat/wx-0027.wxgf",
+      "sha256": "2efc0e381e8250b8f8acd329ea36480214f2119c8c302b3b0e07da5672de655d",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "9c28b8e4c9f5aa302e63607d0660ceaa2fdadbb32b6c3d6b0ed730e609aa8700"
+    },
+    {
+      "id": "wx-0133",
+      "category": "01-开心与期待",
+      "title": "兴奋",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "053a2a25ad7b1a4ed456ac3268cee6ed371c6963447c73536f45a8a961de0ffd",
+      "path": "images/01-开心与期待/wx-0133-兴奋.gif",
+      "original": "originals/wechat/wx-0133.wxgf",
+      "sha256": "61cfc0ec44261f51f9233bf6e8abb7838546e15e81bf7cadb82fa071c59d67c7",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "2c92bfdd80ce46b39bedf790c6480bd70cd18aeef48ccbac986dbba2390e201f"
+    },
+    {
+      "id": "wx-0154",
+      "category": "01-开心与期待",
+      "title": "客服一百分",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "0db05da89238bd67640dd39bb5d5e88bf58687161e9563006aaa30f8dece5cc7",
+      "path": "images/01-开心与期待/wx-0154-客服一百分.gif",
+      "original": "originals/wechat/wx-0154.wxgf",
+      "sha256": "bee9db9d168dd34729aaf2a42e87ce475aec2e849d4e75e5fa6049cb5c522541",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "b8f313775990d832f00b3e887a8d87b8a7e525441708110afaad44519f57f196"
+    },
+    {
+      "id": "wx-0180",
+      "category": "01-开心与期待",
+      "title": "抱钞票",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 32,
+      "unique_frame_count": 32,
+      "decoded_hash": "615b73b7f565d3b95e66462b222c69c917fb9a805215c68cc8f9bb15c52a4933",
+      "path": "images/01-开心与期待/wx-0180-抱钞票.gif",
+      "original": "originals/wechat/wx-0180.wxgf",
+      "sha256": "a3a0484743e987c3001c327dd36b966d4a7e997186b3094d7aa60af16ae178d6",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "9a07f0a1b1a9dac558515b023e5bc1f4e84bafd6dde109c33dd58d7df87f2105"
+    },
+    {
+      "id": "wx-0239",
+      "category": "01-开心与期待",
+      "title": "期待另一版",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 504,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "86327faaba6a481af5c855afde7fb763f716498097bec9e3a4a96d57ebb59d43",
+      "path": "images/01-开心与期待/wx-0239-期待另一版.png",
+      "original": "originals/wechat/wx-0239.wxgf",
+      "sha256": "b75f0732823a558bc86b8e15509b2e79019806d3a3b6242ef692de85b2d055de",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "0db51859300e93af2394d3d6ab3aca901e590349f19566501dcedbfd00202dff"
     },
     {
       "source_id": 206,
@@ -246,7 +439,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/冒昧請教妳一件事.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0206",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 51,
@@ -265,7 +461,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/這是在報復我嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0051",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 106,
@@ -284,7 +483,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/祥子驚嚇.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0106",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 283,
@@ -303,7 +505,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/那個.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0283",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 287,
@@ -322,7 +527,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我沒聽過這首歌.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0287",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 303,
@@ -341,7 +549,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0303",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 341,
@@ -360,7 +571,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/不會吧.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0341",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 354,
@@ -379,7 +593,105 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/祥子是這樣嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0354",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "id": "wx-0009",
+      "category": "03-惊讶与疑惑",
+      "title": "呆呆看着",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "e65212f016619fbc887258ce1f5a0cb4894660da5922220a33573113972d8891",
+      "path": "images/03-惊讶与疑惑/wx-0009-呆呆看着.gif",
+      "original": "originals/wechat/wx-0009.wxgf",
+      "sha256": "82bb8ba17e29d604cb0a8036614f58b0af06955457e83c0144d3e4ff25861132",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "c1c6e351d0e5f2daf1967526e3ee8c04d56f2f27eee641c75565f46abc83507d"
+    },
+    {
+      "id": "wx-0014",
+      "category": "03-惊讶与疑惑",
+      "title": "震惊",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "77bef474fa4100067824018dabfe257dee242176b38eca223e1e8aa6edaec780",
+      "path": "images/03-惊讶与疑惑/wx-0014-震惊.gif",
+      "original": "originals/wechat/wx-0014.wxgf",
+      "sha256": "f497ceaddb9a995e498194ea18a9dacd8a9465512931db07baff8a984bb5603c",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "8445d787a4ac523e2f6f7871b62a1b72c3f2b9bb4af5f9aafd89bab36e73157b"
+    },
+    {
+      "id": "wx-0128",
+      "category": "03-惊讶与疑惑",
+      "title": "慌张",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "c8bd544d60c58532073c473f4a95f7b647f73b00d0f33149bdd90e16a773dac2",
+      "path": "images/03-惊讶与疑惑/wx-0128-慌张.gif",
+      "original": "originals/wechat/wx-0128.wxgf",
+      "sha256": "b9fb1d0b9359522f60929f51545788d5105623624e7e00511972bb5ce97c875a",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "ab91dfca1906ab418c9862627a7ec6957801dda48066989d14fefd0f1acce784"
+    },
+    {
+      "id": "wx-0139",
+      "category": "03-惊讶与疑惑",
+      "title": "思考",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "aa492afa2f0c177211611393ea01f3126069036794280390bec236563875a0f7",
+      "path": "images/03-惊讶与疑惑/wx-0139-思考.gif",
+      "original": "originals/wechat/wx-0139.wxgf",
+      "sha256": "2206b9365ac240efcef9dd8623574742f5a8585bf24510ad3041f1233460c5ca",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "c6e40c6abf1a53ce97e90f38f08b7bb8e26046bc3e53e890e555638b05fe0682"
+    },
+    {
+      "id": "wx-0259",
+      "category": "03-惊讶与疑惑",
+      "title": "紧张",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "d2b45ab76c148f4d653d9208d78df4d70ab3963a178ecad6175bec1dc5f5d432",
+      "path": "images/03-惊讶与疑惑/wx-0259-紧张.gif",
+      "original": "originals/wechat/wx-0259.wxgf",
+      "sha256": "8fe2779eb1202d32cc3fbae3b120ad304033cb42b3f4426372e6f17594b2963c",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "7f90d874d7a6c039c7dba411c56f0f28bfb2f44f3ceb95a837665c12d6ecd792"
     },
     {
       "source_id": 38,
@@ -398,26 +710,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/滿腦子都只想到自己呢.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
-    },
-    {
-      "source_id": 261,
-      "source_id_definition": "memes.json 数组中的位置，从 1 开始",
-      "title": "沒有人那樣拜託妳",
-      "category": "04-生气与质问",
-      "path": "images/04-生气与质问/0261-沒有人那樣拜託妳.jpg",
-      "episode": "mygo_8",
-      "width": 2560,
-      "height": 1455,
-      "bytes": 345378,
-      "sha256": "19bd6a4dc72bca641ce453cdb9549dca14483bc40390ee17687bd043b445ec03",
-      "pixel_sha256": "8a701aef8c52b29c7876bc54a0feab60f0015ccec3d564f47b4a4a605c38c773",
-      "source_repository": "https://github.com/jason4lin/Mygo-meme-chat",
-      "source_revision": "7bde5c46519e9dded049c7e20ed52e36b52f6ae6",
-      "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
-      "download_url": "https://drive.miyago9267.com/d/file/img/mygo/沒有人那樣拜託妳.jpg",
-      "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0038",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 155,
@@ -436,7 +732,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/真是會虛情假意呢.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0155",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 166,
@@ -455,7 +754,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我哪有可能有辦法.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0166",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 252,
@@ -474,7 +776,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/有辦法背負其他人的人生嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0252",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 260,
@@ -493,7 +798,32 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/這是最後的警告.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0260",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "source_id": 261,
+      "source_id_definition": "memes.json 数组中的位置，从 1 开始",
+      "title": "沒有人那樣拜託妳",
+      "category": "04-生气与质问",
+      "path": "images/04-生气与质问/0261-沒有人那樣拜託妳.jpg",
+      "episode": "mygo_8",
+      "width": 2560,
+      "height": 1455,
+      "bytes": 345378,
+      "sha256": "19bd6a4dc72bca641ce453cdb9549dca14483bc40390ee17687bd043b445ec03",
+      "pixel_sha256": "8a701aef8c52b29c7876bc54a0feab60f0015ccec3d564f47b4a4a605c38c773",
+      "source_repository": "https://github.com/jason4lin/Mygo-meme-chat",
+      "source_revision": "7bde5c46519e9dded049c7e20ed52e36b52f6ae6",
+      "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
+      "download_url": "https://drive.miyago9267.com/d/file/img/mygo/沒有人那樣拜託妳.jpg",
+      "verification_date": "2026-10-25",
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0261",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 279,
@@ -512,7 +842,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/妳這個人.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0279",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 372,
@@ -531,7 +864,29 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/妳只不過是一個學生.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0372",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "id": "wx-0146",
+      "category": "04-生气与质问",
+      "title": "不满",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "0d18f992515f1aaf5fae57f208f70744c4cc803615884094ebdbc5a1c7e0d170",
+      "path": "images/04-生气与质问/wx-0146-不满.gif",
+      "original": "originals/wechat/wx-0146.wxgf",
+      "sha256": "ca95f487909cb9626211990ae8b15224d6ba58b627161d16da6ad53ff2d3a3b8",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "05685825312e1b706cb4a85869d2c78236e47ce114ce169296f871756db2fc19"
     },
     {
       "source_id": 50,
@@ -550,7 +905,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/是這樣嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0050",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 136,
@@ -569,7 +927,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/到現在還執著於過去，真難看.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0136",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 147,
@@ -588,7 +949,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/可以請妳別提起那件事嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0147",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 178,
@@ -607,7 +971,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/還真是高高在上呢.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0178",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 255,
@@ -626,7 +993,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/甚麼都願意做就是這麼沉重的話.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0255",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 259,
@@ -645,7 +1015,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/今後不要再和我扯上關係了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0259",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 271,
@@ -664,7 +1037,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/絕對不可能再復活了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0271",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 280,
@@ -683,7 +1059,143 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/妳們就請便吧.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0280",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "id": "wx-0021",
+      "category": "05-冷淡与嫌弃",
+      "title": "侧目",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "d987417d395f77fb07cb78a00c8c9e42291b0b9ad077f6ae9f965926e1a655e6",
+      "path": "images/05-冷淡与嫌弃/wx-0021-侧目.png",
+      "original": "originals/wechat/wx-0021.wxgf",
+      "sha256": "88eed8ffb00eed03b04dca8913a444978af033b429eef8555c2d4e33673c71f5",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "f2562fb06a9e4bf8b5571775e0655c455d5c59f40d2ba741728213d93452bef7"
+    },
+    {
+      "id": "wx-0045",
+      "category": "05-冷淡与嫌弃",
+      "title": "闭眼沉默",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "3bac0ee3973666b9ce812457e51b4ec607cc2934a6513582a0cd6ec0e98697d6",
+      "path": "images/05-冷淡与嫌弃/wx-0045-闭眼沉默.gif",
+      "original": "originals/wechat/wx-0045.wxgf",
+      "sha256": "79cb371a7598f5ba0714e038f6510bbec92fa6b5f399351073efe9329fc116ce",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "7abe3a4c4cadcf465fba76cdc219838e50a104a647885c54dccbd8a1d1082d25"
+    },
+    {
+      "id": "wx-0068",
+      "category": "05-冷淡与嫌弃",
+      "title": "侧目另一版",
+      "original_format": "wxgf",
+      "width": 1024,
+      "height": 1024,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "6059fcafb27b5c6addbb07c614b541d45d55623517469a1db659c74af0abe916",
+      "path": "images/05-冷淡与嫌弃/wx-0068-侧目另一版.png",
+      "original": "originals/wechat/wx-0068.wxgf",
+      "sha256": "0ab120dfb13dc5e55361125bccf61b9d3eccf9bc09b4951cd7e98f35495dfd40",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "2851cfca00e7704ba5510945dbdf95e394ecfc6a7d9aa2aed79c95d0d31c3b4e"
+    },
+    {
+      "id": "wx-0090",
+      "category": "05-冷淡与嫌弃",
+      "title": "嘘",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 492,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "994c3514ee706801f7c5b09a575ef028eb75181ca9a383f9e55bc44a74148a55",
+      "path": "images/05-冷淡与嫌弃/wx-0090-嘘.png",
+      "original": "originals/wechat/wx-0090.wxgf",
+      "sha256": "32d29920ac60dc533519dd3561f4f4aaa04937198b443a5fe18612a7601d9035",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "2227063b0e3f9c52b75dd507408d3aad49fa9fab116fa0d0cd85e4cba06c0d7a"
+    },
+    {
+      "id": "wx-0092",
+      "category": "05-冷淡与嫌弃",
+      "title": "平静微笑",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 98,
+      "unique_frame_count": 98,
+      "decoded_hash": "321ba1b1cad58b90b853c7d8dcf01a7eac8e4693862d484c0b2b5c28fd58000d",
+      "path": "images/05-冷淡与嫌弃/wx-0092-平静微笑.gif",
+      "original": "originals/wechat/wx-0092.wxgf",
+      "sha256": "3a54dbd9b7d035222a04990a6b1e175dd0f516eafc3aba9aefc56aa294189d4e",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "209a9a89ddb7ae3358b2f04aa097fd6abc2433dcee31dd391d08a65f91cd3728"
+    },
+    {
+      "id": "wx-0176",
+      "category": "05-冷淡与嫌弃",
+      "title": "满脑子都只想到自己呢",
+      "original_format": "wxgf",
+      "width": 960,
+      "height": 876,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "e5d9fc74c203f6a838e3b29b527232749862ecad9acaecbb4242726659805592",
+      "path": "images/05-冷淡与嫌弃/wx-0176-满脑子都只想到自己呢.png",
+      "original": "originals/wechat/wx-0176.wxgf",
+      "sha256": "8ec2811e57136a0b40954d9c8e4a681be076d8976d358fe9c032de74e4321f51",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "8144031f7d9743a96e0f4803f42fde04c858c56deb978c61397f3368c26f38c7"
+    },
+    {
+      "id": "wx-0260",
+      "category": "05-冷淡与嫌弃",
+      "title": "拒绝",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "fff46fe0fce9730086d8d7675ac2be0c52875233d3c299529fc28076b45bb863",
+      "path": "images/05-冷淡与嫌弃/wx-0260-拒绝.gif",
+      "original": "originals/wechat/wx-0260.wxgf",
+      "sha256": "59c3fa97577e4349c29eea0b47860290a21027d31c4ca42a89b5172b3dd5e445",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "497eb8582ea33cb222cb645f1274ba89974402e66ec9bad5a45d9a2d9d62b38d"
     },
     {
       "source_id": 120,
@@ -702,7 +1214,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/事情都搞砸了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0120",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 128,
@@ -721,7 +1236,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/已經死了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0128",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 327,
@@ -740,7 +1258,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/讓人說不出話來了.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0327",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 368,
@@ -759,7 +1280,86 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我好想成為人類啊.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0368",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "id": "wx-0016",
+      "category": "06-难过与委屈",
+      "title": "含泪",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 30,
+      "unique_frame_count": 30,
+      "decoded_hash": "88faa25fb8397f39ae12e884f0e87768433baea93c75a0544fbd3490d4bdbb38",
+      "path": "images/06-难过与委屈/wx-0016-含泪.gif",
+      "original": "originals/wechat/wx-0016.wxgf",
+      "sha256": "54370d4043dd09d5e066a5ea9257f29fc4fb5b5b5f6e1311dae44ccbb36f4af5",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "5391eea5aab0d5e2fe8040a4e053feee6d8140d5e561db3483d092b627d0dcd3"
+    },
+    {
+      "id": "wx-0075",
+      "category": "06-难过与委屈",
+      "title": "大哭",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "5ce7686605c34380096a0c3b23ef26e98a370af04b012825e98be1b280c17bdc",
+      "path": "images/06-难过与委屈/wx-0075-大哭.gif",
+      "original": "originals/wechat/wx-0075.wxgf",
+      "sha256": "07533cdc725679a0b4dd9e5a4999ca30777c72d6f97fa62dd437aecc582a2ace",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "30590b5ec9f9f2bbac9258bdb1cb4442a6cddc8a913b327ef717cf3117f30376"
+    },
+    {
+      "id": "wx-0162",
+      "category": "06-难过与委屈",
+      "title": "委屈",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "fd0fd1015a04d5634f84429fe3b38c81dbe19978c7efc5916205d165efd0a901",
+      "path": "images/06-难过与委屈/wx-0162-委屈.gif",
+      "original": "originals/wechat/wx-0162.wxgf",
+      "sha256": "4442e5318d233eee52be1ac250eaf495740b6e171c47c8d73f06e6c36d8bc3c0",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "d6eff32b0d637c7e374405ab83cb280d2c03210a8109fbd3b3864ec730d969ee"
+    },
+    {
+      "id": "wx-0217",
+      "category": "06-难过与委屈",
+      "title": "灰暗失落",
+      "original_format": "wxgf",
+      "width": 412,
+      "height": 412,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "99ef923a000ba2f4be85f95942ceb7af51382775cf44d8277097b8893c6c92bf",
+      "path": "images/06-难过与委屈/wx-0217-灰暗失落.png",
+      "original": "originals/wechat/wx-0217.wxgf",
+      "sha256": "564820450a0ec570a549380150617b6a3a353f12bc0d67eb5011c6a4b0a50651",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "35573b6a8dd0defcaa64c81f4a75db779c20aa67c3bd4c7f6635268db4393f1e"
     },
     {
       "source_id": 183,
@@ -778,7 +1378,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/祥子看手機.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0183",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 384,
@@ -797,7 +1400,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/能不能也教我用呢.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0384",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 67,
@@ -816,7 +1422,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/感謝您讓我佔用的寶貴時間.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0067",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 89,
@@ -835,7 +1444,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/能否請妳積極考慮我的提案呢.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0089",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 121,
@@ -854,7 +1466,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/我想妳心裡多少也有些想法吧.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0121",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 144,
@@ -873,7 +1488,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/一旦加入就無法回頭了喔.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0144",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 156,
@@ -892,7 +1510,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/可以請妳刪除剛才的影片嗎.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0156",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 162,
@@ -911,7 +1532,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/不要這樣.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0162",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 324,
@@ -930,7 +1554,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/妳叫什麼名字.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0324",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 345,
@@ -949,7 +1576,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/這布局可說是堅若磐石.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0345",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 364,
@@ -968,7 +1598,10 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/真不愧是人氣寵兒.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0364",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
     },
     {
       "source_id": 366,
@@ -987,7 +1620,143 @@
       "source_index": "https://github.com/jason4lin/Mygo-meme-chat/blob/7bde5c46519e9dded049c7e20ed52e36b52f6ae6/memes.json",
       "download_url": "https://drive.miyago9267.com/d/file/img/mygo/現在正是復權的時刻.jpg",
       "verification_date": "2026-10-25",
-      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。"
+      "visual_review": "已逐张确认丰川祥子出镜，含少量同框及舞台面具造型。",
+      "id": "chat-0366",
+      "source_label": "MyGO Meme Chat",
+      "frame_count": 1
+    },
+    {
+      "id": "wx-0006",
+      "category": "09-日常与互动",
+      "title": "举手招呼",
+      "original_format": "wxgf",
+      "width": 240,
+      "height": 240,
+      "frame_count": 2,
+      "unique_frame_count": 2,
+      "decoded_hash": "584e591d2b718a7c0d70832fb4f4fe57ff9480acae0fea0bfab0375cf7f70d8e",
+      "path": "images/09-日常与互动/wx-0006-举手招呼.gif",
+      "original": "originals/wechat/wx-0006.wxgf",
+      "sha256": "8b22231e08b125a28cb949b7a5de8ceb5a1d8d885f4e331d2eb010f1ccdf04f2",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "3ea8c1c5f024ae3b69d7cc4c1fefb90efa4343ee5db9078aa7086dade1061b97"
+    },
+    {
+      "id": "wx-0017",
+      "category": "09-日常与互动",
+      "title": "喝茶",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 35,
+      "unique_frame_count": 35,
+      "decoded_hash": "16a6668a43418d2f2f8bbe120ec49b37cb2514a95dbba8c6baf27d9f24f22f81",
+      "path": "images/09-日常与互动/wx-0017-喝茶.gif",
+      "original": "originals/wechat/wx-0017.wxgf",
+      "sha256": "e773a7eb40c00bae81481ced0b427ab03872897190778bcf915bd21795d94451",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "6ef64cae5f37f9930e86bc531612c414bce31039df1623d9daeab2435d38ff17"
+    },
+    {
+      "id": "wx-0051",
+      "category": "09-日常与互动",
+      "title": "吃饼干",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "e20d138189c466f85976ef6d2006a51f867516872517285bd6affc319a57b005",
+      "path": "images/09-日常与互动/wx-0051-吃饼干.gif",
+      "original": "originals/wechat/wx-0051.wxgf",
+      "sha256": "ba936cb8a4608dd1dc9af9ed6247734809b9db0712fb4676a5d0a0be2a03b1f9",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "168e76fa2503f5f7568b6256875783ea53f5051dd37656253865ef0f5e98e2eb"
+    },
+    {
+      "id": "wx-0053",
+      "category": "09-日常与互动",
+      "title": "鼓脸吃东西",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "87d44f416d848c32bf7d18d8278f1cc3aac798aff75fdea35d34e394c51d8a83",
+      "path": "images/09-日常与互动/wx-0053-鼓脸吃东西.png",
+      "original": "originals/wechat/wx-0053.wxgf",
+      "sha256": "b7abd631a4da19638bfe3ec2b7b7f8e8c55d0825c5ab3452ca1a8b6de81946c6",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "2f1073f93e49aaca2f74f23b135bea9cebe32e95d9926c291450d0c611bdaded"
+    },
+    {
+      "id": "wx-0135",
+      "category": "09-日常与互动",
+      "title": "捂嘴偷笑",
+      "original_format": "wxgf",
+      "width": 512,
+      "height": 512,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "b89421202cab3c25da093d039a3cc5a8a09d6e9af71776f873ff715dde2a1886",
+      "path": "images/09-日常与互动/wx-0135-捂嘴偷笑.gif",
+      "original": "originals/wechat/wx-0135.wxgf",
+      "sha256": "aca6476a6221d8882e708e6f2fb95c0f71d1ade39b3e1c01fc4473b744371645",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "4a2daeca87c9ff0b79e97f325f6537c2ea80650d0be3fa189301816d513e3c28"
+    },
+    {
+      "id": "wx-0219",
+      "category": "09-日常与互动",
+      "title": "探头",
+      "original_format": "wxgf",
+      "width": 500,
+      "height": 500,
+      "frame_count": 33,
+      "unique_frame_count": 33,
+      "decoded_hash": "4efc06f06cd6345ef0c91716e5f0e0d745d848609bc9133ac26ea42924e5debd",
+      "path": "images/09-日常与互动/wx-0219-探头.gif",
+      "original": "originals/wechat/wx-0219.wxgf",
+      "sha256": "857d9043ca5a28444f56582b0eb7147665ac8fae7a60af159656508c3e88ba02",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "8d3c8faf169a4be7d2211f0bfc50c53195c6f37d3fb431c67dc6de04c4481952"
+    },
+    {
+      "id": "wx-0137",
+      "category": "10-二创恶搞",
+      "title": "满脑子都是自己呢亲",
+      "original_format": "wxgf",
+      "width": 504,
+      "height": 504,
+      "frame_count": 1,
+      "unique_frame_count": 1,
+      "decoded_hash": "4f8ad24fc07a0dd97ab00b5bad121c5ae772d8204b073ea0dc3c1d998cac080d",
+      "path": "images/10-二创恶搞/wx-0137-满脑子都是自己呢亲.png",
+      "original": "originals/wechat/wx-0137.wxgf",
+      "sha256": "08b2cb21eabc7fd2da1f04715c5b9613b46903d87c41cddb722c0ac5373f640c",
+      "source": "用户本机微信表情缓存",
+      "visual_review": "逐张确认丰川祥子，含 Q 版、动画截图及单独分类的二创恶搞",
+      "source_label": "微信缓存",
+      "verification_date": "2026-10-25",
+      "original_sha256": "dcaa737268daf82a7b0b693ceb5b8cb8a3dafe871957ca54b1b52c07b99bd9cd"
     }
   ]
 }
